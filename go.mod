@@ -5,9 +5,9 @@ go 1.18
 require gorm.io/driver/postgres v1.3.1
 
 require (
-	github.com/Netflix/go-env v0.0.0-20210215222557-e437a7e7f9fb // indirect
+	github.com/Netflix/go-env v0.0.0-20210215222557-e437a7e7f9fb
 	github.com/andybalholm/brotli v1.0.4 // indirect
-	github.com/gofiber/fiber/v2 v2.30.0 // indirect
+	github.com/gofiber/fiber/v2 v2.30.0
 	github.com/jackc/chunkreader/v2 v2.0.1 // indirect
 	github.com/jackc/pgconn v1.10.1 // indirect
 	github.com/jackc/pgio v1.0.0 // indirect
@@ -26,5 +26,5 @@ require (
 	golang.org/x/crypto v0.0.0-20220214200702-86341886e292 // indirect
 	golang.org/x/sys v0.0.0-20220319134239-a9b59b0215f8 // indirect
 	golang.org/x/text v0.3.7 // indirect
-	gorm.io/gorm v1.23.1 // indirect
+	gorm.io/gorm v1.23.1
 )
